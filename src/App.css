@@ -1,0 +1,6 @@
+.pokemon-card {
+  border: 1px solid gray;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+}
